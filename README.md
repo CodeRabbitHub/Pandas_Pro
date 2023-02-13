@@ -4,13 +4,13 @@ Welcome to the Pandas Tutorials repository! Pandas is a popular data analysis li
 
 This repository contains a series of tutorials that will help you become proficient with Pandas. The tutorials cover the following topics:
 
-  Introduction to Pandas
-  Data Structures in Pandas (Series, DataFrames)
-  Data Manipulation (Indexing, Slicing, Joining, Merging, etc.)
-  Data Cleaning and Preprocessing
-  Groupby Operations
-  Time Series Analysis
-  Advanced Pandas Techniques (Reshaping, Pivot Tables, etc.)
++ Introduction to Pandas
++ Data Structures in Pandas (Series, DataFrames)
++ Data Manipulation (Indexing, Slicing, Joining, Merging, etc.)
++ Data Cleaning and Preprocessing
++ Groupby Operations
++ Time Series Analysis
++ Advanced Pandas Techniques (Reshaping, Pivot Tables, etc.)
 
 The tutorials are written in Jupyter Notebooks and include clear explanations, examples, and exercises to help you solidify your understanding.
 
